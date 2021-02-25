@@ -84,6 +84,7 @@ A working [Kotlin example](src/test/kotlin/com/coxautodev/graphql/tools/EndToEnd
 
 ### Defining a Schema
 
+
 A [GraphQL schema](http://graphql.org/learn/schema/) can be given either as raw strings:
 
 ```java
